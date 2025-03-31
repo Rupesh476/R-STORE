@@ -6,7 +6,7 @@ import { toast } from 'react-toastify';
 
 const Add = () => {
 
-    const url = "https://r-store-frontend.onrender.com";
+    const url = "https://r-store-backend.onrender.com";
 
     const[image,setImage] = useState(false);
     const[data,setData] = useState({
